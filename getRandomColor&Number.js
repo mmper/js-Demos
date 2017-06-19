@@ -22,4 +22,4 @@ var getRandomColor = function () {
     var G = g.toString(16);
     var B = b.toString(16);
     return '#' + R + G + B;
-}
+};
